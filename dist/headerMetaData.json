@@ -1,0 +1,10 @@
+[
+    { "name": "id", "id": "ID" },
+    { "name": "firstName", "id": "First Name" },
+    { "name": "middleName", "id": "Middle Name" },
+    { "name": "lastName", "id": "Last Name" },
+    { "name": "email", "id": "Email" },
+    { "name": "phoneNumber", "id": "Phone Number" },
+    { "name": "role", "id": "Role" },
+    { "name": "address", "id": "Address" }
+]
